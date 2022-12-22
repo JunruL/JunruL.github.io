@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-05-01 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+I start my internship at the <a href='https://www.dgp.toronto.edu/people-gallery'>Dynamic Graphics Project Lab</a>!
