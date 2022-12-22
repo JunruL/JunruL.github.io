@@ -15,13 +15,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a third-year undergraduate studying computer science and statistics at the <a href='https://www.utoronto.ca'>University of Toronto</a>. I’m broadly interested in computer vision and machine learning, and particularly in 3D reconstruction, probabilistic modeling, and deep learning. I'm currently working with <a href='https://davidlindell.com'>David B. Lindell</a> and <a href='https://www.gilitschenski.org/igor/'>Igor Gilitschenski</a> on something about <a href='https://www.matthewtancik.com/nerf'>NeRF</a>.
+I'm a third-year undergraduate studying Computer Science, Statistics, and Mathematics at the <a href='https://www.utoronto.ca'>University of Toronto</a>. I’m broadly interested in computer vision and machine learning, and particularly in 3D reconstruction, probabilistic modeling, and deep learning. I'm currently working with <a href='https://davidlindell.com'>David B. Lindell</a> and <a href='https://www.gilitschenski.org/igor/'>Igor Gilitschenski</a> on <a href='https://www.matthewtancik.com/nerf'>NeRF</a>.
 
 Previously, I was fortunate to work with <a href='http://www.cs.toronto.edu/~kyros/'>Kyros Kutulakos</a> on computational imaging. I also did some research with <a href='https://www.utsc.utoronto.ca/cms/lisa-jeffrey'>Lisa Jeffrey</a> and <a href='https://www.linkedin.com/in/csealfon/?originalSubdomain=ca'>Carolyn Sealfon</a>, and worked as a web developer with <a href='https://www.cs.toronto.edu/~david/'>David Liu</a>.
 
 In my spare time, I enjoy playing badminton and reading.
 
-Feel free to get in touch if you'd like to chat: junru.lin@mail.utoronto.ca
+Feel free to get in touch if you'd like to chat: <a href="mailto:junru.lin@mail.utoronto.ca">junru.lin@mail.utoronto.ca</a>.
 
 <!-- Hello, 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
