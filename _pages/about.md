@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: deer.jpg
+  image: junru_lin.jpg
   image_circular: true # crops the image to make it circular
   address: 
 
