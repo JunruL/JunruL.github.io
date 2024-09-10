@@ -9,15 +9,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.Sc. Computer Science, Statistics, and Mathematics
+    - title: B.Sc. Computer Science and Mathematics
       institution: University of Toronto, Canada
-      year: 2020 - Present
+      year: 2020 - 2025
       description:
-        - GPA 3.97/4.0 (94/100)
+        - GPA 3.98/4.0 (93.5/100)
 
 - title: Experience
   type: time_table
   contents:
+    - title: Computer Graphics Research Intern
+      institution: Leonidas J. Guibas, Stanford
+      year: 2024
+    - title: Machien Learning Research Intern
+      institution: Deep Genomics
+      year: 2023 - 2024
     - title: Computer Vision Research Intern
       institution: Kyros Kutulakos, Dynamic Graphics Project Lab
       year: 2022
@@ -34,16 +40,28 @@
 #     - title: <a href="https://github.com/MarkUsProject">MarkUs</a>
 #       year: 2021
 #       description: A web application for the submission and grading of student programming assignments.
+
 - title: Teaching
   type: nested_list
   contents:
     - title: Teaching Assistant
       items: 
         - MAT223 - Linear Algebra I (Fall 2022, Winter 2023)
+        - MAT188 - Linear Algebra (Fall 2024)
+        - MAT187 - Calculus II (Winter 2025)
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - International Experience Award+
+        - Samuel Beatty In-Course Scholarship
+    - year: 2023
+      items: 
+        - New College Scholar
+        - 2nd Place Winner of Citadel Midwest Datathon
+        - Dean's List Scholar
     - year: 2022
       items: 
         - Dean's List Scholar
@@ -56,10 +74,9 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Computer Vision & Machine Learning
+    - title: Computer Vision & Computer Graphics
       items: 
-        - 3D Reconstruction.
-        - Computational Creativity.
+        - 3D Vision.
 
 - title: Other Interests
   type: list
