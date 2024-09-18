@@ -15,13 +15,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a third-year undergraduate studying Computer Science, Statistics, and Mathematics at the <a href='https://www.utoronto.ca'>University of Toronto</a>. I’m broadly interested in computer vision and machine learning, and particularly in 3D reconstruction, probabilistic modeling, and deep learning. I'm currently working with <a href='https://davidlindell.com'>David B. Lindell</a> and <a href='https://www.gilitschenski.org/igor/'>Igor Gilitschenski</a> on <a href='https://www.matthewtancik.com/nerf'>NeRF</a>.
+I'm a final-year undergraduate studying Computer Science and Mathematics at the University of Toronto. I’m broadly interested in computer vision and graphics, with a particular focus on 3D reconstruction, probabilistic modeling, and deep learning. Currently, I'm working with Prof. <a href='https://geometry.stanford.edu/member/guibas/'>Leonidas J. Guibas</a> and Prof. <a href='https://www.sfu.ca/~keli/'>Ke Li</a> on exciting projects in 3D vision.
 
-Previously, I was fortunate to work with <a href='http://www.cs.toronto.edu/~kyros/'>Kyros Kutulakos</a> on computational imaging. I also did some research with <a href='https://www.utsc.utoronto.ca/cms/lisa-jeffrey'>Lisa Jeffrey</a> and <a href='https://www.linkedin.com/in/csealfon/?originalSubdomain=ca'>Carolyn Sealfon</a>, and worked as a web developer with <a href='https://www.cs.toronto.edu/~david/'>David Liu</a>.
+Previously, I had the opportunity to collaborate with Prof. <a href='https://scholar.google.ca/citations?user=TwMib_QAAAAJ&hl=en'>Luc Van Gool</a> and Dr. <a href='https://insait.ai/dr-danda-paudel/'>Danda Pani Paudel</a> on NeRF-SLAM. My research journey in 3D vision began under the guidance of Prof. <a href='https://davidlindell.com'>David B. Lindell</a> and Prof. <a href='https://www.gilitschenski.org/igor/'>Igor Gilitschenski</a>. I also had the pleasure of working with Prof. <a href='http://www.cs.toronto.edu/~kyros/'>Kyros Kutulakos</a> on computational imaging.
 
-In my spare time, I enjoy playing badminton and reading.
+I gained industry experience through a year-long internship as a machine learning researcher at <a href='https://www.deepgenomics.com'>Deep Genomics</a>/. Earlier in my undergrad studies, I conducted research with <a href='https://www.utsc.utoronto.ca/cms/lisa-jeffrey'>Lisa Jeffrey</a> and Prof. <a href='https://www.linkedin.com/in/csealfon/?originalSubdomain=ca'>Carolyn Sealfon</a>, and worked as a web developer with Prof. <a href='https://www.cs.toronto.edu/~david/'>David Liu</a>.
 
-Feel free to get in touch if you'd like to chat: <a href="mailto:junru.lin@mail.utoronto.ca">junru.lin@mail.utoronto.ca</a>.
+I am passionate about mentoring junior students and helping them explore research opportunities at UofT and beyond. If you ever want to chat about research (or anything else!), feel free to reach out: <a href="mailto:junru.lin@mail.utoronto.ca">junru.lin@mail.utoronto.ca</a>.
 
 <!-- Hello, 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
