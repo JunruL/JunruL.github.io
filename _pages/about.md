@@ -19,7 +19,7 @@ I'm a final-year undergraduate studying Computer Science at the University of To
 
 Previsouly, I spent one year at <a href='https://www.deepgenomics.com'>Deep Genomics</a> as a machine learning researcher. Earlier in my undergrad studies, I conducted research with <a href='https://www.utsc.utoronto.ca/cms/lisa-jeffrey'>Lisa Jeffrey</a>, and worked as a web developer with Prof. <a href='https://www.cs.toronto.edu/~david/'>David Liu</a>.
 
-I am passionate about mentoring junior students and helping them explore research opportunities at UofT and beyond. If you ever want to chat about research (or anything else!), feel free to reach out: <a href="mailto:junru.lin@mail.utoronto.ca">junru.lin@mail.utoronto.ca</a>!
+I am passionate about mentoring junior students and helping them explore research opportunities at UofT and beyond. If you ever want to chat about research (or anything else!), feel free to reach out: <a href="mailto:junru.lin@mail.utoronto.ca">junru.lin@mail.utoronto.ca</a>.
 
 <!-- Hello, 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
