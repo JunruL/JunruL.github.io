@@ -9,8 +9,6 @@
   {% include head.html %}
   </head>
 
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OQBhSHhAQdaU-t1L1BqBl5-wEa2V_AM56P0TTRbJA5Y"></script>
-
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
 
@@ -33,5 +31,8 @@
     {% include scripts/mathjax.html %}
     {% include scripts/analytics.html %}
     {% include scripts/progressBar.html %}
+
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OQBhSHhAQdaU-t1L1BqBl5-wEa2V_AM56P0TTRbJA5Y"></script>
+    
   </body>
 </html>
