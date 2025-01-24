@@ -13,7 +13,7 @@
       institution: University of Toronto, Canada
       year: 2020 - 2025
       description:
-        - GPA 3.98/4.0 (93.5/100)
+        - GPA 3.98/4.0 (93.8/100)
 
 - title: Experience
   type: time_table
@@ -48,11 +48,15 @@
       items: 
         - MAT223 - Linear Algebra I (Fall 2022, Winter 2023)
         - MAT188 - Linear Algebra (Fall 2024)
+        - MAT135 - Calculus I (Fall 2024)
         - MAT187 - Calculus II (Winter 2025)
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - CRA Outstanding Undergraduate Researcher Award (Honourable Mention)
     - year: 2024
       items: 
         - International Experience Award+
