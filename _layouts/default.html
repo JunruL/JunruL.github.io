@@ -7,6 +7,12 @@
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {% include head.html %}
+
+  <!-- Hide the ClustrMaps Map -->
+  <style>
+    #clustrmaps-widget-v2 {display: none !important;}
+  </style>
+
   </head>
 
   <!-- Body -->
@@ -33,6 +39,6 @@
     {% include scripts/progressBar.html %}
 
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OQBhSHhAQdaU-t1L1BqBl5-wEa2V_AM56P0TTRbJA5Y"></script>
-    
+
   </body>
 </html>
