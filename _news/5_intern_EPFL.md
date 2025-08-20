@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-01-27 07:59:00-0400
+date: 2025-07-01 07:59:00-0400
 inline: true
 ---
 
-I will be starting my internship at EPFL with Prof. <a href='https://vilab.epfl.ch/zamir/'>Amir Zamir</a> this summer!
+Started My internship at EPFL with Prof. <a href='https://vilab.epfl.ch/zamir/'>Amir Zamir</a>!
