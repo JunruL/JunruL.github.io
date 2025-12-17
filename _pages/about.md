@@ -23,7 +23,7 @@ I spent one year at <a href='https://www.deepgenomics.com'>Deep Genomics</a> as 
 
 I am passionate about mentoring junior students and helping them explore research opportunities at UofT and beyond. If you ever want to chat about research (or anything else!), feel free to reach out: <a href="mailto:junru.lin@mail.utoronto.ca">junru.lin@mail.utoronto.ca</a>.
 
-<span style="color: red;">I'm actively looking for research internship opportunities starting Fall 2025!</span>
+<!-- <span style="color: red;">I'm actively looking for research internship opportunities starting Fall 2025!</span> -->
 
 <!-- Hello, 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
